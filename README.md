@@ -58,7 +58,7 @@ Enjoy the app without creating an account! Data like bookings and preferences ar
 
 ```bash
 # Clone the repo
-git clone [https://github.com/YourUsername/ConcertBookingApp.git](https://github.com/Sanjeeth-Prakash/Concert-Booking-App.git)
+git clone https://github.com/Sanjeeth-Prakash/Concert-Booking-App.git
 
 # Open in Android Studio
 # Build the project and run on emulator or device
